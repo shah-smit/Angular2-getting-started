@@ -22,4 +22,3 @@ import {AppRoutingModule, routableComponents } from './app-routing.module';
 })
 export class AppModule {
 }
-
